@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: MeuSegundoProjetoSpringBoot-Com-GitHub
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Erik
+Implementation-Vendor-Id: com.erik-company
+Build-Jdk: 1.8.0_181
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/enviador-de-email
+Created-By: Maven Integration for Eclipse
+
